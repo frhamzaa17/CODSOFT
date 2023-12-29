@@ -1,1 +1,1 @@
-These are the content of my landing page
+These are the content for CODSOFT Internship
