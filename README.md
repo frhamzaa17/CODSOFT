@@ -3,7 +3,7 @@ CODSOFT
 Internship Projects
 
 📄 Task 1 - "Landing Page"
-[Landing Page]{https://frhamzaa17.github.io/Landpage/}
+https://frhamzaa17.github.io/Landpage/
 This project aims to create a captivating and user-friendly landing page using HTML and CSS. The landing page serves as the gateway to our website, making it crucial to leave a lasting impression on visitors. Here's what you need to know about the task:
 
 📁 Task 2 - "Portfolio Website"
